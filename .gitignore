@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# env
+.env
+server/.env
+client/.env
+
+# uploads & extracted code
+server/uploads/
+server/extracted/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# build
+dist/
+build/
+
+# vite
+client/dist/
+
+# mongo
+*.db
