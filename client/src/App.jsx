@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import StatusPage from "./StatusPage";
 
-const API = "https://codeproof-qa.onrender.com/";
+const API = "https://codeproof-qa.onrender.com";
 
 export default function App() {
   return (
