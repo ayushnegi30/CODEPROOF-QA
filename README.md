@@ -4,7 +4,6 @@
 
 CodeProof QA is a full-stack web application that allows users to upload a zipped codebase and ask natural language questions about it. The system extracts and indexes the code, retrieves relevant snippets, and returns answers with proof — including file paths, line ranges, and code blocks.
 
-This project was built as part of a technical build assessment task.
 
 ---
 
